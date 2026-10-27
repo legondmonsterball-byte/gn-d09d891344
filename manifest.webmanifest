@@ -1,0 +1,15 @@
+{
+  "name": "성장기 노트",
+  "short_name": "성장기 노트",
+  "description": "운동 루틴과 영상 계획을 한 화면에서",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf4ea",
+  "theme_color": "#faf4ea",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
